@@ -1,4 +1,4 @@
 # qwiklabs
-Repository for third week of the git course on coursera
+Testing
 
 I am editing the README file. Adding some more details about the project description.
